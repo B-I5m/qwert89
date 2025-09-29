@@ -26,3 +26,4 @@ C:\Users\Tuf\Desktop\Interface\TAsk1\obj\Debug\net9.0\refint\TAsk1.dll
 C:\Users\Tuf\Desktop\Interface\TAsk1\obj\Debug\net9.0\TAsk1.pdb
 C:\Users\Tuf\Desktop\Interface\TAsk1\obj\Debug\net9.0\TAsk1.genruntimeconfig.cache
 C:\Users\Tuf\Desktop\Interface\TAsk1\obj\Debug\net9.0\ref\TAsk1.dll
+C:\Users\Tuf\Desktop\Interface\TAsk1\obj\Debug\net9.0\Task1.sourcelink.json

@@ -1,6 +1,6 @@
 public abstract class BankAccount : IBankAccount
 {
-    private List<Transaction> transactions = new List<Transaction>(); // вот здесь создаём список
+    private List<Transaction> transactions = new List<Transaction>();
 
     public string Id { get; private set; }
     public string HolderName { get; set; }
